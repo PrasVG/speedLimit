@@ -1,0 +1,6 @@
+Usage:
+
+chmod u+x speedLimit.sh
+
+./speedLimit.sh x          [x] being a number, denoting the speed.
+./speedLimit.sh off        Removes the pipe. Sets bandwidth back to normal speed.
